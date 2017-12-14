@@ -2,11 +2,12 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               <YOUR TITLE>
+tagline:             <YOUR TAGLINE>
+url:                 <YOUR PUBLISHED URL>
 paginate:            1
 baseurl:             ""
+analytics_id:        XXX
 
 # Assets
 #
@@ -17,16 +18,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Sidhant Gandhi
+  url:               http://sidhantgandhi.com
+  email:             sidhant.gandhi@gmail.com
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
-
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
   - jekyll-gist
